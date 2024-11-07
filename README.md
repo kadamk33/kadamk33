@@ -1,6 +1,5 @@
 <div  align="center" > 
       <img width="68%" src="https://raw.githubusercontent.com/gist/abnsl0014/9d726586bd9246d133a9ddc6391cd2f0/raw/9a0d296d5f8549a8872ca0c3bcfdf3166a915c9e/computer.gif"/>
-      <h1>Hi there 👋 I'm Ajay</h1>
       <img src="https://komarev.com/ghpvc/?username=Ajaysinh1290&color=orange&style=flat-square&label=P+R+O+F+I+L+E+ +V+I+E+W+S" alt="">
 </div>
 <h1 align="center">Hi 👋, I'm Kishor Kadam</h1>
