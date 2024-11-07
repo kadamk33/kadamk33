@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Spring, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [www.kishorkadam.com](www.kishorkadam.com)
+- 👨‍💻 All of my projects are available at [www.kishorkadam.com]
 
-- 📝 I regularly write articles on [www.kashipara.com](www.kashipara.com)
+- 📝 I regularly write articles on [www.kashipara.com]
 
 - 💬 Ask me about **Java**
 
